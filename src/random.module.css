@@ -1,0 +1,15 @@
+.number1{
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    right: 60px;
+    background-color: bisque;
+}
+
+.number2{
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    left: 60px;
+    background-color: bisque;
+}
